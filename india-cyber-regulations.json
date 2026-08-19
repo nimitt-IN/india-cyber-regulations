@@ -1,0 +1,339 @@
+{
+  "name": "Indian Cyber Regulation Register",
+  "description": "Every cybersecurity and data-protection instrument binding Indian regulated entities, with its reference, issue date, status and deadlines. Each entry read from the issuing regulator’s own notification.",
+  "source": "https://www.bitscore.in/resources/india-cyber-regulation-register",
+  "schema": "https://www.bitscore.in/register/schema.json",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "BitScore CyberTech LLP — bitscore.in",
+  "verifiedFrom": "2026-08-18",
+  "count": 20,
+  "instruments": [
+    {
+      "id": "rbi-cyber-2026-commercial",
+      "name": "Reserve Bank of India (Commercial Banks – Cybersecurity, Technology: Risk, Resilience and Assurance Framework) Directions, 2026",
+      "shortName": "Commercial Banks",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DoS/2026-27/410",
+      "issued": "2026-07-31",
+      "status": "in-force",
+      "binds": "Banking companies other than Small Finance Banks, Payments Banks and Local Area Banks, together with corresponding new banks and the State Bank of India. Foreign banks operating through branches follow comply-or-explain on selected chapters.",
+      "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13643",
+      "verifiedOn": "2026-08-18"
+    },
+    {
+      "id": "rbi-cyber-2026-sfb",
+      "name": "Reserve Bank of India (Small Finance Banks – Cybersecurity, Technology: Risk, Resilience and Assurance Framework) Directions, 2026",
+      "shortName": "Small Finance Banks",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DoS/2026-27/419",
+      "issued": "2026-07-31",
+      "status": "in-force",
+      "binds": "Small Finance Banks.",
+      "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13634",
+      "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "rbi-cyber-2026-pb",
+      "name": "Reserve Bank of India (Payments Banks – Cybersecurity, Technology: Risk, Resilience and Assurance Framework) Directions, 2026",
+      "shortName": "Payments Banks",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DoS/2026-27/428",
+      "issued": "2026-07-31",
+      "status": "in-force",
+      "binds": "Payments Banks.",
+      "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13625",
+      "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "rbi-cyber-2026-ucb",
+      "name": "Reserve Bank of India (Urban Co-operative Banks – Cybersecurity, Technology: Risk, Resilience and Assurance Framework) Directions, 2026",
+      "shortName": "Urban Co-operative Banks",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DoS/2026-27/437",
+      "issued": "2026-07-31",
+      "status": "in-force",
+      "binds": "Primary Co-operative Banks under section 5(ccv) read with section 56 of the Banking Regulation Act, 1949, graded into Levels I to IV by the digital services they offer.",
+      "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13616",
+      "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "rbi-cyber-2026-aifi",
+      "name": "Reserve Bank of India (All India Financial Institutions – Cybersecurity, Technology: Risk, Resilience and Assurance Framework) Directions, 2026",
+      "shortName": "All India Financial Institutions",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DoS/2026-27/456",
+      "issued": "2026-07-31",
+      "status": "in-force",
+      "binds": "EXIM Bank, NABARD, SIDBI, NHB and NaBFID.",
+      "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13597",
+      "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "rbi-cyber-2026-nbfc",
+      "name": "Reserve Bank of India (Non-Banking Financial Companies – Cybersecurity, Technology: Risk, Resilience and Assurance Framework) Directions, 2026",
+      "shortName": "Non-Banking Financial Companies",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DoS/2026-27/461",
+      "issued": "2026-07-31",
+      "status": "in-force",
+      "binds": "All NBFCs, with chapters applying by scale-based layer — Base, Middle, Upper and Top — and to Core Investment Companies.",
+      "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13592",
+      "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "rbi-cyber-2026-cic",
+      "name": "Reserve Bank of India (Credit Information Companies – Cybersecurity, Technology: Risk, Resilience and Assurance Framework) Directions, 2026",
+      "shortName": "Credit Information Companies",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DoS/2026-27/470",
+      "issued": "2026-07-31",
+      "status": "in-force",
+      "binds": "Credit Information Companies as defined under clause (e) of section 2 of the Credit Information Companies (Regulation) Act, 2005.",
+      "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13583",
+      "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "rbi-outsourcing-2025",
+      "name": "Reserve Bank of India (Commercial Banks – Managing Risks in Outsourcing) Directions, 2025",
+      "shortName": "RBI outsourcing Directions, 2025",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DOR/2025-26/171",
+      "issued": "2025-11-28",
+      "status": "in-force",
+      "binds": "Commercial banks. Immediate effect, with existing IT outsourcing agreements to comply by 10 April 2026. Repeals the 2023 Master Direction on Outsourcing of IT Services for the banks covered.",
+      "deadlines": [
+        {
+          "label": "Existing IT outsourcing agreements to comply.",
+          "date": "2026-04-10",
+          "kind": "transition-end"
+        }
+      ],
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13139",
+      "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "rbi-outsourcing-nbfc-2025",
+      "name": "Reserve Bank of India (Non-Banking Financial Companies – Managing Risks in Outsourcing) Directions, 2025",
+      "shortName": "RBI NBFC outsourcing Directions, 2025",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DOR/2025-26/363",
+      "issued": "2025-11-28",
+      "status": "in-force",
+      "binds": "NBFCs across the scale-based layers, together with HFCs, CICs, standalone primary dealers and the account aggregator and P2P categories. Existing IT outsourcing agreements to comply by 10 April 2026.",
+      "deadlines": [
+        {
+          "label": "Existing IT outsourcing agreements to comply.",
+          "date": "2026-04-10",
+          "kind": "transition-end"
+        }
+      ],
+      "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=12941",
+      "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "sebi-cscrf",
+      "name": "Cybersecurity and Cyber Resilience Framework (CSCRF) for SEBI Regulated Entities",
+      "shortName": "SEBI CSCRF",
+      "issuer": "SEBI",
+      "instrumentType": "Framework",
+      "ref": "SEBI/HO/ITD-1/ITD_CSC_EXT/P/CIR/2024/113",
+      "issued": "2024-08-20",
+      "status": "in-force",
+      "binds": "SEBI Regulated Entities across the securities market, graded as Market Infrastructure Institutions, Qualified REs, Mid-size REs, Small-size REs and Self-certification REs.",
+      "deadlines": [
+        {
+          "label": "Compliance deadline as twice extended, for every RE except MIIs, KRAs and QRTAs.",
+          "date": "2025-08-31",
+          "kind": "compliance"
+        }
+      ],
+      "url": "https://www.sebi.gov.in/legal/circulars/aug-2024/cybersecurity-and-cyber-resilience-framework-cscrf-for-sebi-regulated-entities-res-_85964.html",
+      "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "sebi-cscrf-clarifications-2024",
+      "name": "Clarifications to Cybersecurity and Cyber Resilience Framework (CSCRF) for SEBI Regulated Entities",
+      "shortName": "CSCRF clarifications, December 2024",
+      "issuer": "SEBI",
+      "instrumentType": "Circular",
+      "ref": "SEBI/HO/ITD-1/ITD_CSC_EXT/P/CIR/2024/184",
+      "issued": "2024-12-31",
+      "status": "in-force",
+      "binds": "Answered the first round of queries from regulated entities.",
+      "url": "https://www.sebi.gov.in/legal/circulars/dec-2024/clarifications-to-cybersecurity-and-cyber-resilience-framework-cscrf-for-sebi-regulated-entities-res-_90401.html",
+      "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "sebi-cscrf-extension-mar-2025",
+      "name": "Extension towards Adoption and Implementation of Cybersecurity and Cyber Resilience Framework (CSCRF) for SEBI Regulated Entities",
+      "shortName": "First extension, March 2025",
+      "issuer": "SEBI",
+      "instrumentType": "Circular",
+      "ref": "SEBI/HO/ITD-1/ITD_CSC_EXT/P/CIR/2025/45",
+      "issued": "2025-03-28",
+      "status": "in-force",
+      "binds": "Extended compliance timelines by three months, to 30 June 2025, for all REs except MIIs, KRAs and QRTAs.",
+      "deadlines": [
+        {
+          "label": "Extended compliance deadline for every RE except MIIs, KRAs and QRTAs.",
+          "date": "2025-06-30",
+          "kind": "compliance"
+        }
+      ],
+      "url": "https://www.sebi.gov.in/legal/circulars/mar-2025/extension-towards-adoption-and-implementation-of-cybersecurity-and-cyber-resilience-framework-cscrf-for-sebi-regulated-entities-res-_93146.html",
+      "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "sebi-cscrf-clarifications-2025",
+      "name": "Clarifications to Cybersecurity and Cyber Resilience Framework (CSCRF) for SEBI Regulated Entities",
+      "shortName": "CSCRF clarifications, April 2025",
+      "issuer": "SEBI",
+      "instrumentType": "Circular",
+      "ref": "SEBI/HO/ITD-1/ITD_CSC_EXT/P/CIR/2025/60",
+      "issued": "2025-04-30",
+      "status": "in-force",
+      "binds": "Revised the categorisation criteria and thresholds, including for Depository Participants.",
+      "url": "https://www.sebi.gov.in/legal/circulars/apr-2025/clarifications-to-cybersecurity-and-cyber-resilience-framework-cscrf-for-sebi-regulated-entities-res-_93734.html",
+      "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "sebi-cscrf-extension-jun-2025",
+      "name": "Extension towards Adoption and Implementation of Cybersecurity and Cyber Resilience Framework (CSCRF) for SEBI Regulated Entities",
+      "shortName": "Second extension, June 2025",
+      "issuer": "SEBI",
+      "instrumentType": "Circular",
+      "ref": "SEBI/HO/ITD-1/ITD_CSC_EXT/P/CIR/2025/96",
+      "issued": "2025-06-30",
+      "status": "in-force",
+      "binds": "Extended compliance timelines by a further two months, to 31 August 2025, for all REs except MIIs, KRAs and QRTAs.",
+      "deadlines": [
+        {
+          "label": "Compliance deadline extended a second time, again excluding MIIs, KRAs and QRTAs.",
+          "date": "2025-08-31",
+          "kind": "compliance"
+        }
+      ],
+      "url": "https://www.sebi.gov.in/legal/circulars/jun-2025/extension-towards-adoption-and-implementation-of-cybersecurity-and-cyber-resilience-framework-cscrf-for-sebi-regulated-entities-res-_94902.html",
+      "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "sebi-cscrf-technical-2025",
+      "name": "Technical Clarifications to Cybersecurity and Cyber Resilience Framework (CSCRF) for SEBI Regulated Entities",
+      "shortName": "Technical clarifications, August 2025",
+      "issuer": "SEBI",
+      "instrumentType": "Circular",
+      "ref": "SEBI/HO/ITD-1/ITD_CSC_EXT/P/CIR/2025/119",
+      "issued": "2025-08-28",
+      "status": "in-force",
+      "binds": "Technical readings of the standards, issued as the principal deadline passed.",
+      "url": "https://www.sebi.gov.in/legal/circulars/aug-2025/technical-clarifications-to-cybersecurity-and-cyber-resilience-framework-cscrf-for-sebi-regulated-entities-res-_96329.html",
+      "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "sebi-lodr-2015",
+      "name": "Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+      "shortName": "SEBI LODR",
+      "issuer": "SEBI",
+      "instrumentType": "Regulations",
+      "issued": "2015-09-02",
+      "status": "in-force",
+      "binds": "Every listed entity, in any sector. Reg. 30(6) sets the disclosure clocks for material events; Reg. 27(2)(ba) requires cyber incidents in the quarterly corporate governance report; Reg. 21(4) requires the Risk Management Committee to cover cyber security.",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1784630770711.pdf",
+      "verifiedOn": "2026-08-18"
+    },
+    {
+      "id": "irdai-cyber-2026",
+      "name": "IRDAI Information and Cyber Security Guidelines, 2026",
+      "shortName": "IRDAI Guidelines, 2026",
+      "issuer": "IRDAI",
+      "instrumentType": "Guidelines",
+      "ref": "IRDAI/GA&HR/CIR/MISC/51/4/2026",
+      "issued": "2026-04-06",
+      "status": "in-force",
+      "binds": "All insurers, insurance intermediaries and the Insurance Information Bureau of India. Compliance required from the financial year current at issue, which opened on 1 April 2026. Supersedes the 2023 Guidelines issued under IRDAI/GA&HR/GDL/MISC/88/04/2023 of 24 April 2023.",
+      "deadlines": [
+        {
+          "label": "Compliance required “from the current financial year”, which opened five days before the circular was issued.",
+          "date": "2026-04-01",
+          "kind": "compliance"
+        }
+      ],
+      "url": "https://irdai.gov.in/en/document-detail?documentId=9189223",
+      "verifiedOn": "2026-08-18"
+    },
+    {
+      "id": "ifsca-cyber-2025",
+      "name": "Guidelines on Cyber Security and Cyber Resilience for Regulated Entities in IFSCs",
+      "shortName": "IFSCA Cyber Security Guidelines, 2025",
+      "issuer": "IFSCA",
+      "instrumentType": "Guidelines",
+      "ref": "IFSCA-CSD0MSC/13/2025-DCS",
+      "issued": "2025-03-10",
+      "status": "in-force",
+      "binds": "Any entity licensed, recognised, registered or authorised by IFSCA — the GIFT City IFSC. In force 1 April 2025. Applied on a principle of proportionality, with express exemptions for branches, group-only Global In-House Centres, entities with fewer than ten employees and foreign universities — conditional, and lapsing on 10 March 2028 unless extended.",
+      "deadlines": [
+        {
+          "label": "In force.",
+          "date": "2025-04-01",
+          "kind": "in-force"
+        },
+        {
+          "label": "The four para 21 exemptions lapse unless extended.",
+          "date": "2028-03-10",
+          "kind": "exemption-lapse"
+        }
+      ],
+      "url": "https://ifsca.gov.in/Document/Legal/guidelines-on-cyber-security-and-cyber-resilience-for-regulated-entities-in-ifscs-1-10032025064412.pdf",
+      "verifiedOn": "2026-08-18"
+    },
+    {
+      "id": "cert-in-2022",
+      "name": "CERT-In Directions under sub-section (6) of section 70B of the Information Technology Act, 2000",
+      "shortName": "CERT-In Directions, 2022",
+      "issuer": "CERT-In",
+      "instrumentType": "Directions",
+      "ref": "No. 20(3)/2022-CERT-In",
+      "issued": "2022-04-28",
+      "status": "in-force",
+      "binds": "Service providers, intermediaries, data centres, body corporates and government organisations. Cyber incidents reportable within six hours of noticing them.",
+      "deadlines": [
+        {
+          "label": "In force, sixty days after issue.",
+          "date": "2022-06-27",
+          "kind": "in-force"
+        }
+      ],
+      "url": "https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf",
+      "verifiedOn": "2026-08-18"
+    },
+    {
+      "id": "dpdp-rules-2025",
+      "name": "Digital Personal Data Protection Rules, 2025",
+      "shortName": "DPDP Rules, 2025",
+      "issuer": "MeitY",
+      "instrumentType": "Rules",
+      "ref": "G.S.R. 846(E)",
+      "issued": "2025-11-13",
+      "status": "partly-in-force",
+      "binds": "Data Fiduciaries processing digital personal data. Phased, with full compliance required by 13 May 2027.",
+      "deadlines": [
+        {
+          "label": "Full compliance with the Rules.",
+          "date": "2027-05-13",
+          "kind": "compliance"
+        }
+      ],
+      "url": "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf",
+      "verifiedOn": "2026-08-19"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://www.bitscore.in/register/schema.json",
+  "title": "Indian cyber regulation register entry",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "shortName",
+    "issuer",
+    "instrumentType",
+    "issued",
+    "status",
+    "binds",
+    "url",
+    "verifiedOn"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable key. Safe to reference; never reused."
+    },
+    "name": {
+      "type": "string",
+      "description": "Formal name, as the instrument names itself."
+    },
+    "shortName": {
+      "type": "string",
+      "description": "Short form for tables and second mentions."
+    },
+    "issuer": {
+      "type": "string",
+      "enum": [
+        "RBI",
+        "SEBI",
+        "IRDAI",
+        "IFSCA",
+        "CERT-In",
+        "MeitY"
+      ]
+    },
+    "instrumentType": {
+      "type": "string",
+      "enum": [
+        "Directions",
+        "Guidelines",
+        "Rules",
+        "Regulations",
+        "Circular",
+        "Framework"
+      ]
+    },
+    "ref": {
+      "type": "string",
+      "description": "Circular or notification reference. Absent where the instrument carries none."
+    },
+    "issued": {
+      "type": "string",
+      "format": "date",
+      "description": "ISO date of issue."
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "in-force",
+        "partly-in-force",
+        "superseded"
+      ],
+      "description": "partly-in-force means notified and citable, but with substantive obligations not yet commenced."
+    },
+    "binds": {
+      "type": "string",
+      "description": "Who the instrument binds, in one line."
+    },
+    "deadlines": {
+      "type": "array",
+      "description": "Dates the instrument itself sets. Absent where it sets none beyond its issue date.",
+      "items": {
+        "type": "object",
+        "required": [
+          "label",
+          "date",
+          "kind"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "label": {
+            "type": "string"
+          },
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "in-force",
+              "compliance",
+              "transition-end",
+              "exemption-lapse"
+            ]
+          }
+        }
+      }
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "The issuing regulator’s own page or PDF."
+    },
+    "verifiedOn": {
+      "type": "string",
+      "format": "date",
+      "description": "When this entry’s reference, date and URL were last re-read at source — not when the file was generated."
+    }
+  }
+}
