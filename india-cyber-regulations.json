@@ -6,7 +6,7 @@
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "BitScore CyberTech LLP — bitscore.in",
   "verifiedFrom": "2026-08-18",
-  "count": 20,
+  "count": 22,
   "instruments": [
     {
       "id": "rbi-cyber-2026-commercial",
@@ -279,7 +279,7 @@
       "ref": "IFSCA-CSD0MSC/13/2025-DCS",
       "issued": "2025-03-10",
       "status": "in-force",
-      "binds": "Any entity licensed, recognised, registered or authorised by IFSCA — the GIFT City IFSC. In force 1 April 2025. Applied on a principle of proportionality, with express exemptions for branches, group-only Global In-House Centres, entities with fewer than ten employees and foreign universities — conditional, and lapsing on 10 March 2028 unless extended.",
+      "binds": "Any entity licensed, recognised, registered or authorised by IFSCA — the GIFT City IFSC. In force 1 April 2025. Applied on a principle of proportionality, with express exemptions that the March 2026 amendment restructured into two tiers: branches, group-only Global In-House Centres and REs with fewer than ten employees at para 21, and foreign universities, newly incorporated standalone REs with no parent, and Credit Rating Agencies at the new para 23. Both tiers are conditional and lapse on 10 March 2028 unless extended.",
       "deadlines": [
         {
           "label": "In force.",
@@ -287,13 +287,58 @@
           "kind": "in-force"
         },
         {
-          "label": "The four para 21 exemptions lapse unless extended.",
+          "label": "The para 21 and para 23 exemptions lapse unless extended.",
           "date": "2028-03-10",
           "kind": "exemption-lapse"
         }
       ],
       "url": "https://ifsca.gov.in/Document/Legal/guidelines-on-cyber-security-and-cyber-resilience-for-regulated-entities-in-ifscs-1-10032025064412.pdf",
       "verifiedOn": "2026-08-18"
+    },
+    {
+      "id": "ifsca-cyber-amendment-2026",
+      "name": "Amendment to the Circular titled “Guidelines on Cyber Security and Cyber Resilience for Regulated Entities in IFSCs”",
+      "shortName": "IFSCA Cyber Security Guidelines Amendment, 2026",
+      "issuer": "IFSCA",
+      "instrumentType": "Circular",
+      "ref": "IFSCA-CSD0MSC/1/2026-DCS",
+      "issued": "2026-03-10",
+      "status": "in-force",
+      "binds": "All regulated entities in the IFSCs. Amends the 2025 Guidelines rather than standing alone: it substitutes the para 21 exemption list, inserts a second exemption tier at para 23 covering foreign universities, newly incorporated standalone REs and Credit Rating Agencies, and adds an annual cyber security audit report to the para 21 conditions. In effect immediately on issue.",
+      "deadlines": [
+        {
+          "label": "In effect immediately on issue.",
+          "date": "2026-03-10",
+          "kind": "in-force"
+        }
+      ],
+      "url": "https://ifsca.gov.in/CommonDirect/GetFileView?id=d575554ec59b09e7fde503d3a830d088&fileName=Cyber_Security_Guidelines__Amendment__Circular_Final_100326_v04_20260310_0107.pdf&TitleName=Legal",
+      "verifiedOn": "2026-08-31"
+    },
+    {
+      "id": "ifsca-cyber-mii-2026",
+      "name": "Guidelines on Cyber Security and Cyber Resilience for Market Infrastructure Institutions (MIIs) in IFSC",
+      "shortName": "IFSCA MII Cyber Security Guidelines, 2026",
+      "issuer": "IFSCA",
+      "instrumentType": "Guidelines",
+      "ref": "IFSCA-CSD/MSC/2/2026-DCS",
+      "issued": "2026-04-20",
+      "status": "in-force",
+      "binds": "Stock exchanges including the bullion exchange, clearing corporations and depositories in the IFSC. A prescriptive regime layered on top of the 2025 baseline Guidelines rather than replacing them, so an MII complies with both. Issued 20 April 2026 but in force from 1 April 2026.",
+      "deadlines": [
+        {
+          "label": "In force — twenty days before the Guidelines were issued.",
+          "date": "2026-04-01",
+          "kind": "in-force"
+        },
+        {
+          "label": "ISO 27001 certification, measured two years from issuance.",
+          "date": "2028-04-20",
+          "kind": "compliance"
+        }
+      ],
+      "url": "https://ifsca.gov.in/CommonDirect/GetFileView?id=d575554ec59b09e7fde503d3a8d614a8&fileName=Circular_Guidelines_CSCR_MIIs_20042026_20260420_0617.pdf&TitleName=Legal",
+      "verifiedOn": "2026-08-31"
     },
     {
       "id": "cert-in-2022",
