@@ -3,6 +3,14 @@
 2026-08-31
 ==========
 
+NEW  IFSCA Frontier AI Cyber Advisory, 2026 — Advisory on Heightened Cyber Security Risks arising from Frontier Artificial Intelligence Models
+     IFSCA-CSD/MSC/3/2026-DCS · issued 2026-06-04 · in-force
+     Dates: 2026-06-04 (in-force) In force with immediate effect.
+     https://ifsca.gov.in/CommonDirect/GetFileView?id=91427247c5628a865846d173bc9cc2f5&fileName=Advisory_on_Heightened_Cyber_Security_Risks_arising_from_Frontier_Artificial_Intelligence_Models_20260604_0359.pdf&TitleName=Legal
+
+2026-08-31
+==========
+
 NEW  IFSCA Cyber Security Guidelines Amendment, 2026 — Amendment to the Circular titled “Guidelines on Cyber Security and Cyber Resilience for Regulated Entities in IFSCs”
      IFSCA-CSD0MSC/1/2026-DCS · issued 2026-03-10 · in-force
      Dates: 2026-03-10 (in-force) In effect immediately on issue.

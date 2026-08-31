@@ -6,7 +6,7 @@
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "BitScore CyberTech LLP — bitscore.in",
   "verifiedFrom": "2026-08-18",
-  "count": 22,
+  "count": 23,
   "instruments": [
     {
       "id": "rbi-cyber-2026-commercial",
@@ -338,6 +338,26 @@
         }
       ],
       "url": "https://ifsca.gov.in/CommonDirect/GetFileView?id=d575554ec59b09e7fde503d3a8d614a8&fileName=Circular_Guidelines_CSCR_MIIs_20042026_20260420_0617.pdf&TitleName=Legal",
+      "verifiedOn": "2026-08-31"
+    },
+    {
+      "id": "ifsca-cyber-ai-advisory-2026",
+      "name": "Advisory on Heightened Cyber Security Risks arising from Frontier Artificial Intelligence Models",
+      "shortName": "IFSCA Frontier AI Cyber Advisory, 2026",
+      "issuer": "IFSCA",
+      "instrumentType": "Circular",
+      "ref": "IFSCA-CSD/MSC/3/2026-DCS",
+      "issued": "2026-06-04",
+      "status": "in-force",
+      "binds": "All regulated entities in the IFSCs, read alongside the 2025 Guidelines and, for an MII, the 2026 MII Guidelines — it expressly dilutes neither. Titled an advisory, but six of the eleven Annexure A items are drafted with “shall”: SBOM coverage, an API inventory with rate-limiting, frontier AI as a named board-level risk scenario, and critical-service-provider assurance among them.",
+      "deadlines": [
+        {
+          "label": "In force with immediate effect.",
+          "date": "2026-06-04",
+          "kind": "in-force"
+        }
+      ],
+      "url": "https://ifsca.gov.in/CommonDirect/GetFileView?id=91427247c5628a865846d173bc9cc2f5&fileName=Advisory_on_Heightened_Cyber_Security_Risks_arising_from_Frontier_Artificial_Intelligence_Models_20260604_0359.pdf&TitleName=Legal",
       "verifiedOn": "2026-08-31"
     },
     {
