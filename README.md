@@ -46,7 +46,7 @@ regenerated, which is a much easier thing to claim and worth nothing.
 ## Licence
 
 The data is published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Use it, and credit **BitScore CyberTech LLP — bitscore.in**.
+Use it, and credit **BitScore Cybertech LLP — bitscore.in**.
 
 The underlying instruments are Government of India works and are nobody's to license. What
 is licensed here is the compilation, the structured metadata and the verification dates.
