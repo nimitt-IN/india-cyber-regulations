@@ -6,7 +6,7 @@
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "BitScore Cybertech LLP — bitscore.in",
   "verifiedFrom": "2026-08-18",
-  "count": 23,
+  "count": 25,
   "instruments": [
     {
       "id": "rbi-cyber-2026-commercial",
@@ -237,6 +237,54 @@
       "binds": "Technical readings of the standards, issued as the principal deadline passed.",
       "url": "https://www.sebi.gov.in/legal/circulars/aug-2025/technical-clarifications-to-cybersecurity-and-cyber-resilience-framework-cscrf-for-sebi-regulated-entities-res-_96329.html",
       "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "sebi-incident-portal-fire-2026",
+      "name": "Alignment of SEBI's Cyber Incident Reporting Portal with FIRE format",
+      "shortName": "SEBI incident portal — FIRE format",
+      "issuer": "SEBI",
+      "instrumentType": "Circular",
+      "ref": "HO/(449)2026-ITD-5_DIV1/I/19448/2026",
+      "issued": "2026-08-24",
+      "status": "in-force",
+      "binds": "Every SEBI regulated entity already reporting under CSCRF. Filing moves to the Financial Stability Board’s Format for Incident Reporting Exchange, staged across initial report, intermediate updates and final closure, at https://siportal.sebi.gov.in. The six-hour and twenty-four hour clocks are unchanged.",
+      "url": "https://www.sebi.gov.in/legal/circulars/aug-2026/alignment-of-sebi-s-cyber-incident-reporting-portal-with-fire-format_103915.html",
+      "verifiedOn": "2026-09-03"
+    },
+    {
+      "id": "sebi-it-resilience-index-2026",
+      "name": "IT Resilience Index for Market Infrastructure Institutions (MIIs)",
+      "shortName": "SEBI IT Resilience Index",
+      "issuer": "SEBI",
+      "instrumentType": "Circular",
+      "ref": "HO/47/18/11(1)2026-MRD-TPD1/I/19509/2026",
+      "issued": "2026-08-24",
+      "status": "in-force",
+      "binds": "Market Infrastructure Institutions — stock exchanges, clearing corporations and depositories — with AMC Repo Clearing Ltd carved out by name. Half-yearly computation within 60 days of each half-year end, reported to the Standing Committee on Technology and the Governing Board.",
+      "deadlines": [
+        {
+          "label": "Industry Standards Forum finalises sub-parameters and measurement criteria.",
+          "date": "2026-11-30",
+          "kind": "compliance"
+        },
+        {
+          "label": "Standard Operating Procedures submitted to SEBI after SCOT review.",
+          "date": "2027-01-31",
+          "kind": "compliance"
+        },
+        {
+          "label": "ITRI framework operationalised, including the Early Warning System and real-time monitoring of service delivery.",
+          "date": "2027-02-28",
+          "kind": "compliance"
+        },
+        {
+          "label": "First ITRI computation submitted, for the half-year ending on this date.",
+          "date": "2027-03-31",
+          "kind": "compliance"
+        }
+      ],
+      "url": "https://www.sebi.gov.in/legal/circulars/aug-2026/it-resilience-index-for-market-infrastructure-institutions-miis-_103913.html",
+      "verifiedOn": "2026-09-03"
     },
     {
       "id": "sebi-lodr-2015",

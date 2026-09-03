@@ -1,5 +1,17 @@
 # Changelog
 
+2026-09-03
+==========
+
+NEW  SEBI incident portal — FIRE format — Alignment of SEBI's Cyber Incident Reporting Portal with FIRE format
+     HO/(449)2026-ITD-5_DIV1/I/19448/2026 · issued 2026-08-24 · in-force
+     https://www.sebi.gov.in/legal/circulars/aug-2026/alignment-of-sebi-s-cyber-incident-reporting-portal-with-fire-format_103915.html
+
+NEW  SEBI IT Resilience Index — IT Resilience Index for Market Infrastructure Institutions (MIIs)
+     HO/47/18/11(1)2026-MRD-TPD1/I/19509/2026 · issued 2026-08-24 · in-force
+     Dates: 2026-11-30 (compliance) Industry Standards Forum finalises sub-parameters and measurement criteria. · 2027-01-31 (compliance) Standard Operating Procedures submitted to SEBI after SCOT review. · 2027-02-28 (compliance) ITRI framework operationalised, including the Early Warning System and real-time monitoring of service delivery. · 2027-03-31 (compliance) First ITRI computation submitted, for the half-year ending on this date.
+     https://www.sebi.gov.in/legal/circulars/aug-2026/it-resilience-index-for-market-infrastructure-institutions-miis-_103913.html
+
 2026-09-02
 ==========
 
