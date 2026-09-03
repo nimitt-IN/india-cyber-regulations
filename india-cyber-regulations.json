@@ -19,7 +19,7 @@
       "status": "in-force",
       "binds": "Banking companies other than Small Finance Banks, Payments Banks and Local Area Banks, together with corresponding new banks and the State Bank of India. Foreign banks operating through branches follow comply-or-explain on selected chapters.",
       "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13643",
-      "verifiedOn": "2026-08-18"
+      "verifiedOn": "2026-09-03"
     },
     {
       "id": "rbi-cyber-2026-sfb",
@@ -32,7 +32,7 @@
       "status": "in-force",
       "binds": "Small Finance Banks.",
       "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13634",
-      "verifiedOn": "2026-08-19"
+      "verifiedOn": "2026-09-03"
     },
     {
       "id": "rbi-cyber-2026-pb",
@@ -45,7 +45,7 @@
       "status": "in-force",
       "binds": "Payments Banks.",
       "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13625",
-      "verifiedOn": "2026-08-19"
+      "verifiedOn": "2026-09-03"
     },
     {
       "id": "rbi-cyber-2026-ucb",
@@ -58,7 +58,7 @@
       "status": "in-force",
       "binds": "Primary Co-operative Banks under section 5(ccv) read with section 56 of the Banking Regulation Act, 1949, graded into Levels I to IV by the digital services they offer.",
       "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13616",
-      "verifiedOn": "2026-08-19"
+      "verifiedOn": "2026-09-03"
     },
     {
       "id": "rbi-cyber-2026-aifi",
@@ -71,7 +71,7 @@
       "status": "in-force",
       "binds": "EXIM Bank, NABARD, SIDBI, NHB and NaBFID.",
       "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13597",
-      "verifiedOn": "2026-08-19"
+      "verifiedOn": "2026-09-03"
     },
     {
       "id": "rbi-cyber-2026-nbfc",
@@ -82,9 +82,9 @@
       "ref": "RBI/DoS/2026-27/461",
       "issued": "2026-07-31",
       "status": "in-force",
-      "binds": "All NBFCs, with chapters applying by scale-based layer — Base, Middle, Upper and Top — and to Core Investment Companies.",
+      "binds": "All NBFCs registered under the RBI Act, 1934, the Factoring Regulation Act, 2011 or the National Housing Bank Act, 1987. Three obligation chapters, drafted as alternatives rather than as a ladder: Chapter III for Base Layer NBFCs below ₹500 crore of assets and for Core Investment Companies, Chapter IV for Base Layer NBFCs at ₹500 crore and above, and Chapter V for Middle Layer and above, excluding Core Investment Companies.",
       "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13592",
-      "verifiedOn": "2026-08-19"
+      "verifiedOn": "2026-09-03"
     },
     {
       "id": "rbi-cyber-2026-cic",
@@ -97,7 +97,7 @@
       "status": "in-force",
       "binds": "Credit Information Companies as defined under clause (e) of section 2 of the Credit Information Companies (Regulation) Act, 2005.",
       "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13583",
-      "verifiedOn": "2026-08-19"
+      "verifiedOn": "2026-09-03"
     },
     {
       "id": "rbi-outsourcing-2025",

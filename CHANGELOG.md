@@ -3,6 +3,30 @@
 2026-09-03
 ==========
 
+editorial  Commercial Banks
+     (also verifiedOn — not notified)
+
+editorial  Small Finance Banks
+     (also verifiedOn — not notified)
+
+editorial  Payments Banks
+     (also verifiedOn — not notified)
+
+editorial  Urban Co-operative Banks
+     (also verifiedOn — not notified)
+
+editorial  All India Financial Institutions
+     (also verifiedOn — not notified)
+
+editorial  Non-Banking Financial Companies
+     (also binds, verifiedOn — not notified)
+
+editorial  Credit Information Companies
+     (also verifiedOn — not notified)
+
+2026-09-03
+==========
+
 NEW  SEBI incident portal — FIRE format — Alignment of SEBI's Cyber Incident Reporting Portal with FIRE format
      HO/(449)2026-ITD-5_DIV1/I/19448/2026 · issued 2026-08-24 · in-force
      https://www.sebi.gov.in/legal/circulars/aug-2026/alignment-of-sebi-s-cyber-incident-reporting-portal-with-fire-format_103915.html
