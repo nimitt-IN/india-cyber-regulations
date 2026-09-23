@@ -1,5 +1,48 @@
 # Changelog
 
+2026-09-23
+==========
+
+NEW  RBI SFB outsourcing Directions, 2025 — Reserve Bank of India (Small Finance Banks – Managing Risks in Outsourcing) Directions, 2025
+     RBI/DOR/2025-26/202 · issued 2025-11-28 · in-force
+     Dates: 2026-04-10 (transition-end) Existing IT outsourcing agreements to comply, at renewal or by this date, whichever is earlier.
+     https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13107
+
+NEW  RBI Payments Bank outsourcing Directions, 2025 — Reserve Bank of India (Payments Banks – Managing Risks in Outsourcing) Directions, 2025
+     RBI/DOR/2025-26/220 · issued 2025-11-28 · in-force
+     Dates: 2026-04-10 (transition-end) Existing IT outsourcing agreements to comply, at renewal or by this date, whichever is earlier.
+     https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13088
+
+NEW  RBI LAB outsourcing Directions, 2025 — Reserve Bank of India (Local Area Banks – Managing Risks in Outsourcing) Directions, 2025
+     RBI/DOR/2025-26/245 · issued 2025-11-28 · in-force
+     Dates: 2026-04-10 (transition-end) Existing IT outsourcing agreements to comply, at renewal or by this date, whichever is earlier.
+     https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13062
+
+NEW  RBI UCB outsourcing Directions, 2025 — Reserve Bank of India (Urban Co-operative Banks – Managing Risks in Outsourcing) Directions, 2025
+     RBI/DOR/2025-26/293 · issued 2025-11-28 · in-force
+     Dates: 2026-04-10 (transition-end) Existing IT outsourcing agreements to comply, at renewal or by this date, whichever is earlier.
+     https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13012
+
+NEW  RBI RCB outsourcing Directions, 2025 — Reserve Bank of India (Rural Co-operative Banks – Managing Risks in Outsourcing) Directions, 2025
+     RBI/DOR/2025-26/318 · issued 2025-11-28 · in-force
+     https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12986
+
+NEW  RBI AIFI outsourcing Directions, 2025 — Reserve Bank of India (All India Financial Institutions – Managing Risks in Outsourcing) Directions, 2025
+     RBI/DOR/2025-26/337 · issued 2025-11-28 · in-force
+     Dates: 2026-04-10 (transition-end) Existing IT outsourcing agreements to comply, at renewal or by this date, whichever is earlier.
+     https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12967
+
+NEW  RBI Credit Information Company outsourcing Directions, 2025 — Reserve Bank of India (Credit Information Companies – Managing Risks in Outsourcing) Directions, 2025
+     RBI/DoR/2025-26/379 · issued 2025-11-28 · in-force
+     Dates: 2026-04-10 (transition-end) Existing IT outsourcing agreements to comply, at renewal or by this date, whichever is earlier.
+     https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12925
+
+editorial  RBI outsourcing Directions, 2025
+     (also binds — not notified)
+
+editorial  RBI NBFC outsourcing Directions, 2025
+     (also binds — not notified)
+
 2026-09-03
 ==========
 

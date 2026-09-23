@@ -6,7 +6,7 @@
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "BitScore Cybertech LLP — bitscore.in",
   "verifiedFrom": "2026-08-18",
-  "count": 25,
+  "count": 32,
   "instruments": [
     {
       "id": "rbi-cyber-2026-commercial",
@@ -108,7 +108,7 @@
       "ref": "RBI/DOR/2025-26/171",
       "issued": "2025-11-28",
       "status": "in-force",
-      "binds": "Commercial banks. Immediate effect, with existing IT outsourcing agreements to comply by 10 April 2026. Repeals the 2023 Master Direction on Outsourcing of IT Services for the banks covered.",
+      "binds": "Scheduled commercial banks — banking companies other than Small Finance Banks, Local Area Banks, Payments Banks and Regional Rural Banks — with the corresponding new banks and SBI. Immediate effect, with existing IT outsourcing agreements to comply by 10 April 2026. Repeals the 2023 Master Direction on Outsourcing of IT Services for the banks covered.",
       "deadlines": [
         {
           "label": "Existing IT outsourcing agreements to comply.",
@@ -128,7 +128,7 @@
       "ref": "RBI/DOR/2025-26/363",
       "issued": "2025-11-28",
       "status": "in-force",
-      "binds": "NBFCs across the scale-based layers, together with HFCs, CICs, standalone primary dealers and the account aggregator and P2P categories. Existing IT outsourcing agreements to comply by 10 April 2026.",
+      "binds": "NBFCs across the scale-based layers, together with HFCs, Core Investment Companies, standalone primary dealers and the account aggregator and P2P categories; NOFHCs excluded. Base Layer takes the general provisions only. Existing IT outsourcing agreements to comply by 10 April 2026.",
       "deadlines": [
         {
           "label": "Existing IT outsourcing agreements to comply.",
@@ -138,6 +138,139 @@
       ],
       "url": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=12941",
       "verifiedOn": "2026-08-19"
+    },
+    {
+      "id": "rbi-outsourcing-sfb-2025",
+      "name": "Reserve Bank of India (Small Finance Banks – Managing Risks in Outsourcing) Directions, 2025",
+      "shortName": "RBI SFB outsourcing Directions, 2025",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DOR/2025-26/202",
+      "issued": "2025-11-28",
+      "status": "in-force",
+      "binds": "Small Finance Banks. Covers outsourcing of financial services and of IT services. Immediate effect, with existing IT outsourcing agreements to comply at renewal or by 10 April 2026, whichever is earlier.",
+      "deadlines": [
+        {
+          "label": "Existing IT outsourcing agreements to comply, at renewal or by this date, whichever is earlier.",
+          "date": "2026-04-10",
+          "kind": "transition-end"
+        }
+      ],
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13107",
+      "verifiedOn": "2026-09-23"
+    },
+    {
+      "id": "rbi-outsourcing-pb-2025",
+      "name": "Reserve Bank of India (Payments Banks – Managing Risks in Outsourcing) Directions, 2025",
+      "shortName": "RBI Payments Bank outsourcing Directions, 2025",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DOR/2025-26/220",
+      "issued": "2025-11-28",
+      "status": "in-force",
+      "binds": "Payments Banks. Covers outsourcing of financial services and of IT services. Immediate effect, with existing IT outsourcing agreements to comply at renewal or by 10 April 2026, whichever is earlier.",
+      "deadlines": [
+        {
+          "label": "Existing IT outsourcing agreements to comply, at renewal or by this date, whichever is earlier.",
+          "date": "2026-04-10",
+          "kind": "transition-end"
+        }
+      ],
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13088",
+      "verifiedOn": "2026-09-23"
+    },
+    {
+      "id": "rbi-outsourcing-lab-2025",
+      "name": "Reserve Bank of India (Local Area Banks – Managing Risks in Outsourcing) Directions, 2025",
+      "shortName": "RBI LAB outsourcing Directions, 2025",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DOR/2025-26/245",
+      "issued": "2025-11-28",
+      "status": "in-force",
+      "binds": "Local Area Banks, for material outsourcing of IT services only — the instrument has no financial-services chapter. Immediate effect, with existing IT outsourcing agreements to comply at renewal or by 10 April 2026, whichever is earlier.",
+      "deadlines": [
+        {
+          "label": "Existing IT outsourcing agreements to comply, at renewal or by this date, whichever is earlier.",
+          "date": "2026-04-10",
+          "kind": "transition-end"
+        }
+      ],
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13062",
+      "verifiedOn": "2026-09-23"
+    },
+    {
+      "id": "rbi-outsourcing-ucb-2025",
+      "name": "Reserve Bank of India (Urban Co-operative Banks – Managing Risks in Outsourcing) Directions, 2025",
+      "shortName": "RBI UCB outsourcing Directions, 2025",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DOR/2025-26/293",
+      "issued": "2025-11-28",
+      "status": "in-force",
+      "binds": "All Urban Co-operative Banks for outsourcing of financial services; the IT outsourcing chapter and the IT-specific board provisions apply only to Tier 3 and Tier 4 UCBs. Immediate effect, with existing IT outsourcing agreements to comply at renewal or by 10 April 2026, whichever is earlier.",
+      "deadlines": [
+        {
+          "label": "Existing IT outsourcing agreements to comply, at renewal or by this date, whichever is earlier.",
+          "date": "2026-04-10",
+          "kind": "transition-end"
+        }
+      ],
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13012",
+      "verifiedOn": "2026-09-23"
+    },
+    {
+      "id": "rbi-outsourcing-rcb-2025",
+      "name": "Reserve Bank of India (Rural Co-operative Banks – Managing Risks in Outsourcing) Directions, 2025",
+      "shortName": "RBI RCB outsourcing Directions, 2025",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DOR/2025-26/318",
+      "issued": "2025-11-28",
+      "status": "in-force",
+      "binds": "Rural Co-operative Banks — State and Central Co-operative Banks as defined in the NABARD Act, 1981 — for outsourcing of financial services only. No IT outsourcing chapter and no transition proviso: in force with immediate effect.",
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12986",
+      "verifiedOn": "2026-09-23"
+    },
+    {
+      "id": "rbi-outsourcing-aifi-2025",
+      "name": "Reserve Bank of India (All India Financial Institutions – Managing Risks in Outsourcing) Directions, 2025",
+      "shortName": "RBI AIFI outsourcing Directions, 2025",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DOR/2025-26/337",
+      "issued": "2025-11-28",
+      "status": "in-force",
+      "binds": "EXIM Bank, NABARD, NaBFID, NHB and SIDBI, for material outsourcing of IT services only. Immediate effect, with existing IT outsourcing agreements to comply at renewal or by 10 April 2026, whichever is earlier.",
+      "deadlines": [
+        {
+          "label": "Existing IT outsourcing agreements to comply, at renewal or by this date, whichever is earlier.",
+          "date": "2026-04-10",
+          "kind": "transition-end"
+        }
+      ],
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12967",
+      "verifiedOn": "2026-09-23"
+    },
+    {
+      "id": "rbi-outsourcing-cic-2025",
+      "name": "Reserve Bank of India (Credit Information Companies – Managing Risks in Outsourcing) Directions, 2025",
+      "shortName": "RBI Credit Information Company outsourcing Directions, 2025",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DoR/2025-26/379",
+      "issued": "2025-11-28",
+      "status": "in-force",
+      "binds": "Credit Information Companies under section 2(e) of the Credit Information Companies (Regulation) Act, 2005, for material outsourcing of IT services only. Not the Core Investment Companies the NBFC instrument calls CICs. Existing IT outsourcing agreements to comply at renewal or by 10 April 2026, whichever is earlier.",
+      "deadlines": [
+        {
+          "label": "Existing IT outsourcing agreements to comply, at renewal or by this date, whichever is earlier.",
+          "date": "2026-04-10",
+          "kind": "transition-end"
+        }
+      ],
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12925",
+      "verifiedOn": "2026-09-23"
     },
     {
       "id": "sebi-cscrf",
