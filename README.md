@@ -13,11 +13,13 @@ Oldest verification in the current set: **2026-08-18**.
 | `india-cyber-regulations.json` | The register. One object per instrument, deadlines nested. |
 | `india-cyber-regulations.csv` | The same rows, flattened. Deadlines as `kind:date:label`, semicolon-separated. |
 | `schema.json` | JSON Schema for a record. Validate against this rather than guessing at the shape. |
+| `changes.json` | Every addition, removal or material change, newest first. Re-verification dates and wording edits are not logged. |
 
 Also served directly, with permissive CORS, if you would rather fetch than clone:
 
     https://www.bitscore.in/register/india-cyber-regulations.json
     https://www.bitscore.in/register/india-cyber-regulations.csv
+    https://www.bitscore.in/register/changes.json
 
 ## How it is maintained
 
