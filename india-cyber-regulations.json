@@ -290,7 +290,7 @@
         }
       ],
       "url": "https://www.sebi.gov.in/legal/circulars/aug-2024/cybersecurity-and-cyber-resilience-framework-cscrf-for-sebi-regulated-entities-res-_85964.html",
-      "verifiedOn": "2026-08-19"
+      "verifiedOn": "2026-10-11"
     },
     {
       "id": "sebi-cscrf-clarifications-2024",
@@ -301,9 +301,21 @@
       "ref": "SEBI/HO/ITD-1/ITD_CSC_EXT/P/CIR/2024/184",
       "issued": "2024-12-31",
       "status": "in-force",
-      "binds": "Answered the first round of queries from regulated entities.",
+      "binds": "Answered the first round of queries from regulated entities. Gave every RE regulatory forbearance to 31 March 2025 for the requirements effective 1 January 2025, moved the compliance date for KYC Registration Agencies and Depository Participants from 1 January to 1 April 2025, and held the data localisation standard (PR.DS.S2) in abeyance.",
+      "deadlines": [
+        {
+          "label": "Regulatory forbearance ends for the requirements effective 1 January 2025.",
+          "date": "2025-03-31",
+          "kind": "transition-end"
+        },
+        {
+          "label": "Compliance date for KRAs and DPs, moved from 1 January 2025.",
+          "date": "2025-04-01",
+          "kind": "compliance"
+        }
+      ],
       "url": "https://www.sebi.gov.in/legal/circulars/dec-2024/clarifications-to-cybersecurity-and-cyber-resilience-framework-cscrf-for-sebi-regulated-entities-res-_90401.html",
-      "verifiedOn": "2026-08-19"
+      "verifiedOn": "2026-10-11"
     },
     {
       "id": "sebi-cscrf-extension-mar-2025",
@@ -323,7 +335,7 @@
         }
       ],
       "url": "https://www.sebi.gov.in/legal/circulars/mar-2025/extension-towards-adoption-and-implementation-of-cybersecurity-and-cyber-resilience-framework-cscrf-for-sebi-regulated-entities-res-_93146.html",
-      "verifiedOn": "2026-08-19"
+      "verifiedOn": "2026-10-11"
     },
     {
       "id": "sebi-cscrf-clarifications-2025",
@@ -336,7 +348,7 @@
       "status": "in-force",
       "binds": "Revised the categorisation criteria and thresholds, including for Depository Participants.",
       "url": "https://www.sebi.gov.in/legal/circulars/apr-2025/clarifications-to-cybersecurity-and-cyber-resilience-framework-cscrf-for-sebi-regulated-entities-res-_93734.html",
-      "verifiedOn": "2026-08-19"
+      "verifiedOn": "2026-10-11"
     },
     {
       "id": "sebi-cscrf-extension-jun-2025",
@@ -356,7 +368,7 @@
         }
       ],
       "url": "https://www.sebi.gov.in/legal/circulars/jun-2025/extension-towards-adoption-and-implementation-of-cybersecurity-and-cyber-resilience-framework-cscrf-for-sebi-regulated-entities-res-_94902.html",
-      "verifiedOn": "2026-08-19"
+      "verifiedOn": "2026-10-11"
     },
     {
       "id": "sebi-cscrf-technical-2025",
@@ -369,7 +381,7 @@
       "status": "in-force",
       "binds": "Technical readings of the standards, issued as the principal deadline passed.",
       "url": "https://www.sebi.gov.in/legal/circulars/aug-2025/technical-clarifications-to-cybersecurity-and-cyber-resilience-framework-cscrf-for-sebi-regulated-entities-res-_96329.html",
-      "verifiedOn": "2026-08-19"
+      "verifiedOn": "2026-10-11"
     },
     {
       "id": "sebi-incident-portal-fire-2026",
@@ -382,7 +394,7 @@
       "status": "in-force",
       "binds": "Every SEBI regulated entity already reporting under CSCRF. Filing moves to the Financial Stability Board’s Format for Incident Reporting Exchange, staged across initial report, intermediate updates and final closure, at https://siportal.sebi.gov.in. The six-hour and twenty-four hour clocks are unchanged.",
       "url": "https://www.sebi.gov.in/legal/circulars/aug-2026/alignment-of-sebi-s-cyber-incident-reporting-portal-with-fire-format_103915.html",
-      "verifiedOn": "2026-09-03"
+      "verifiedOn": "2026-10-11"
     },
     {
       "id": "sebi-it-resilience-index-2026",
@@ -417,7 +429,7 @@
         }
       ],
       "url": "https://www.sebi.gov.in/legal/circulars/aug-2026/it-resilience-index-for-market-infrastructure-institutions-miis-_103913.html",
-      "verifiedOn": "2026-09-03"
+      "verifiedOn": "2026-10-11"
     },
     {
       "id": "sebi-lodr-2015",
@@ -429,7 +441,7 @@
       "status": "in-force",
       "binds": "Every listed entity, in any sector. Reg. 30(6) sets the disclosure clocks for material events; Reg. 27(2)(ba) requires cyber incidents in the quarterly corporate governance report; Reg. 21(4) requires the Risk Management Committee to cover cyber security.",
       "url": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1784630770711.pdf",
-      "verifiedOn": "2026-08-18"
+      "verifiedOn": "2026-10-11"
     },
     {
       "id": "irdai-cyber-2026",
@@ -474,7 +486,7 @@
         }
       ],
       "url": "https://ifsca.gov.in/Document/Legal/guidelines-on-cyber-security-and-cyber-resilience-for-regulated-entities-in-ifscs-1-10032025064412.pdf",
-      "verifiedOn": "2026-08-18"
+      "verifiedOn": "2026-10-11"
     },
     {
       "id": "ifsca-cyber-amendment-2026",
@@ -494,7 +506,7 @@
         }
       ],
       "url": "https://ifsca.gov.in/CommonDirect/GetFileView?id=d575554ec59b09e7fde503d3a830d088&fileName=Cyber_Security_Guidelines__Amendment__Circular_Final_100326_v04_20260310_0107.pdf&TitleName=Legal",
-      "verifiedOn": "2026-08-31"
+      "verifiedOn": "2026-10-11"
     },
     {
       "id": "ifsca-cyber-mii-2026",
@@ -519,7 +531,7 @@
         }
       ],
       "url": "https://ifsca.gov.in/CommonDirect/GetFileView?id=d575554ec59b09e7fde503d3a8d614a8&fileName=Circular_Guidelines_CSCR_MIIs_20042026_20260420_0617.pdf&TitleName=Legal",
-      "verifiedOn": "2026-08-31"
+      "verifiedOn": "2026-10-11"
     },
     {
       "id": "ifsca-cyber-ai-advisory-2026",
@@ -530,7 +542,7 @@
       "ref": "IFSCA-CSD/MSC/3/2026-DCS",
       "issued": "2026-06-04",
       "status": "in-force",
-      "binds": "All regulated entities in the IFSCs, read alongside the 2025 Guidelines and, for an MII, the 2026 MII Guidelines — it expressly dilutes neither. Titled an advisory, but six of the eleven Annexure A items are drafted with “shall”: SBOM coverage, an API inventory with rate-limiting, frontier AI as a named board-level risk scenario, and critical-service-provider assurance among them.",
+      "binds": "All regulated entities in the IFSCs, read alongside the 2025 Guidelines and, for an MII, the 2026 MII Guidelines — it expressly dilutes neither. Titled an advisory, but seven of the eleven Annexure A items are drafted with “shall”: SBOM coverage, an API inventory with rate-limiting, frontier AI as a named board-level risk scenario, and critical-service-provider assurance among them.",
       "deadlines": [
         {
           "label": "In force with immediate effect.",
@@ -539,7 +551,7 @@
         }
       ],
       "url": "https://ifsca.gov.in/CommonDirect/GetFileView?id=91427247c5628a865846d173bc9cc2f5&fileName=Advisory_on_Heightened_Cyber_Security_Risks_arising_from_Frontier_Artificial_Intelligence_Models_20260604_0359.pdf&TitleName=Legal",
-      "verifiedOn": "2026-08-31"
+      "verifiedOn": "2026-10-11"
     },
     {
       "id": "cert-in-2022",
@@ -559,7 +571,7 @@
         }
       ],
       "url": "https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf",
-      "verifiedOn": "2026-08-18"
+      "verifiedOn": "2026-10-11"
     },
     {
       "id": "dpdp-rules-2025",
@@ -579,7 +591,7 @@
         }
       ],
       "url": "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf",
-      "verifiedOn": "2026-08-19"
+      "verifiedOn": "2026-10-11"
     }
   ]
 }

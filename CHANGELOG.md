@@ -1,5 +1,56 @@
 # Changelog
 
+2026-10-11
+==========
+
+editorial  SEBI CSCRF
+     (also verifiedOn — not notified)
+
+CHANGED  CSCRF clarifications, December 2024
+     Dates it sets
+       was: none
+       now: 2025-03-31 (transition-end) Regulatory forbearance ends for the requirements effective 1 January 2025. · 2025-04-01 (compliance) Compliance date for KRAs and DPs, moved from 1 January 2025.
+     (also binds, verifiedOn — not notified)
+
+editorial  First extension, March 2025
+     (also verifiedOn — not notified)
+
+editorial  CSCRF clarifications, April 2025
+     (also verifiedOn — not notified)
+
+editorial  Second extension, June 2025
+     (also verifiedOn — not notified)
+
+editorial  Technical clarifications, August 2025
+     (also verifiedOn — not notified)
+
+editorial  SEBI incident portal — FIRE format
+     (also verifiedOn — not notified)
+
+editorial  SEBI IT Resilience Index
+     (also verifiedOn — not notified)
+
+editorial  SEBI LODR
+     (also verifiedOn — not notified)
+
+editorial  IFSCA Cyber Security Guidelines, 2025
+     (also verifiedOn — not notified)
+
+editorial  IFSCA Cyber Security Guidelines Amendment, 2026
+     (also verifiedOn — not notified)
+
+editorial  IFSCA MII Cyber Security Guidelines, 2026
+     (also verifiedOn — not notified)
+
+editorial  IFSCA Frontier AI Cyber Advisory, 2026
+     (also binds, verifiedOn — not notified)
+
+editorial  CERT-In Directions, 2022
+     (also verifiedOn — not notified)
+
+editorial  DPDP Rules, 2025
+     (also verifiedOn — not notified)
+
 2026-10-05
 ==========
 
