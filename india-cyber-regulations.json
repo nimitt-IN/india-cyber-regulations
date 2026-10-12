@@ -18,8 +18,15 @@
       "issued": "2026-07-31",
       "status": "in-force",
       "binds": "Banking companies other than Small Finance Banks, Payments Banks and Local Area Banks, together with corresponding new banks and the State Bank of India. Foreign banks operating through branches follow comply-or-explain on selected chapters.",
+      "deadlines": [
+        {
+          "label": "Paragraph 8 substituted: the board may delegate the annual review of the IT and cybersecurity strategies and policies to its IT Strategy Committee, and still approves material amendments. Under the (Commercial Banks – Governance) Amendment Directions, 2026, RBI/2026-27/177.",
+          "date": "2026-10-01",
+          "kind": "in-force"
+        }
+      ],
       "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13643",
-      "verifiedOn": "2026-09-03"
+      "verifiedOn": "2026-10-12"
     },
     {
       "id": "rbi-cyber-2026-sfb",
@@ -31,8 +38,15 @@
       "issued": "2026-07-31",
       "status": "in-force",
       "binds": "Small Finance Banks.",
+      "deadlines": [
+        {
+          "label": "Paragraph 7 substituted: the board may delegate the annual review of the IT and cybersecurity strategies and policies to its IT Strategy Committee, and still approves material amendments. Under the (Small Finance Banks – Governance) Amendment Directions, 2026, RBI/2026-27/178.",
+          "date": "2026-10-01",
+          "kind": "in-force"
+        }
+      ],
       "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13634",
-      "verifiedOn": "2026-09-03"
+      "verifiedOn": "2026-10-12"
     },
     {
       "id": "rbi-cyber-2026-pb",
@@ -44,8 +58,15 @@
       "issued": "2026-07-31",
       "status": "in-force",
       "binds": "Payments Banks.",
+      "deadlines": [
+        {
+          "label": "Paragraph 7 substituted: the board may delegate the annual review of the IT and cybersecurity strategies and policies to its IT Strategy Committee, and still approves material amendments. Under the (Payments Banks – Governance) Amendment Directions, 2026, RBI/2026-27/179.",
+          "date": "2026-10-01",
+          "kind": "in-force"
+        }
+      ],
       "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13625",
-      "verifiedOn": "2026-09-03"
+      "verifiedOn": "2026-10-12"
     },
     {
       "id": "rbi-cyber-2026-ucb",

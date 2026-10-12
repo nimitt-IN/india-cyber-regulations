@@ -1,5 +1,26 @@
 # Changelog
 
+2026-10-12
+==========
+
+CHANGED  Commercial Banks
+     Dates it sets
+       was: none
+       now: 2026-10-01 (in-force) Paragraph 8 substituted: the board may delegate the annual review of the IT and cybersecurity strategies and policies to its IT Strategy Committee, and still approves material amendments. Under the (Commercial Banks – Governance) Amendment Directions, 2026, RBI/2026-27/177.
+     (also verifiedOn — not notified)
+
+CHANGED  Small Finance Banks
+     Dates it sets
+       was: none
+       now: 2026-10-01 (in-force) Paragraph 7 substituted: the board may delegate the annual review of the IT and cybersecurity strategies and policies to its IT Strategy Committee, and still approves material amendments. Under the (Small Finance Banks – Governance) Amendment Directions, 2026, RBI/2026-27/178.
+     (also verifiedOn — not notified)
+
+CHANGED  Payments Banks
+     Dates it sets
+       was: none
+       now: 2026-10-01 (in-force) Paragraph 7 substituted: the board may delegate the annual review of the IT and cybersecurity strategies and policies to its IT Strategy Committee, and still approves material amendments. Under the (Payments Banks – Governance) Amendment Directions, 2026, RBI/2026-27/179.
+     (also verifiedOn — not notified)
+
 2026-10-11
 ==========
 

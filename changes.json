@@ -7,6 +7,49 @@
   "attribution": "BitScore Cybertech LLP — bitscore.in",
   "entries": [
     {
+      "date": "2026-10-12",
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "id": "rbi-cyber-2026-commercial",
+          "shortName": "Commercial Banks",
+          "fields": [
+            {
+              "field": "deadlines",
+              "label": "Dates it sets",
+              "from": "none",
+              "to": "2026-10-01 (in-force) Paragraph 8 substituted: the board may delegate the annual review of the IT and cybersecurity strategies and policies to its IT Strategy Committee, and still approves material amendments. Under the (Commercial Banks – Governance) Amendment Directions, 2026, RBI/2026-27/177."
+            }
+          ]
+        },
+        {
+          "id": "rbi-cyber-2026-sfb",
+          "shortName": "Small Finance Banks",
+          "fields": [
+            {
+              "field": "deadlines",
+              "label": "Dates it sets",
+              "from": "none",
+              "to": "2026-10-01 (in-force) Paragraph 7 substituted: the board may delegate the annual review of the IT and cybersecurity strategies and policies to its IT Strategy Committee, and still approves material amendments. Under the (Small Finance Banks – Governance) Amendment Directions, 2026, RBI/2026-27/178."
+            }
+          ]
+        },
+        {
+          "id": "rbi-cyber-2026-pb",
+          "shortName": "Payments Banks",
+          "fields": [
+            {
+              "field": "deadlines",
+              "label": "Dates it sets",
+              "from": "none",
+              "to": "2026-10-01 (in-force) Paragraph 7 substituted: the board may delegate the annual review of the IT and cybersecurity strategies and policies to its IT Strategy Committee, and still approves material amendments. Under the (Payments Banks – Governance) Amendment Directions, 2026, RBI/2026-27/179."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-11",
       "added": [],
       "removed": [],
