@@ -7,6 +7,37 @@
   "attribution": "BitScore Cybertech LLP — bitscore.in",
   "entries": [
     {
+      "date": "2026-11-03",
+      "added": [
+        {
+          "id": "pfrda-cyber-2024",
+          "shortName": "PFRDA Cyber Security Guidelines, 2024",
+          "name": "Information and Cyber Security Policy Guidelines – 2024 for Intermediaries/Regulated Entities",
+          "ref": "PFRDA/2024/14/ICS/01",
+          "issued": "2024-08-01",
+          "url": "https://www.pfrda.org.in/documents/33652/198544/18+PFRDA202414ICS01.pdf"
+        },
+        {
+          "id": "pfrda-incident-classification-2025",
+          "shortName": "PFRDA Incident Classification Guidelines, 2025",
+          "name": "Guidelines on Classification of Cybersecurity Incidents",
+          "ref": "PFRDA/2025/05/ICS/01",
+          "issued": "2025-09-04",
+          "url": "https://www.pfrda.org.in/documents/33652/311487/Cybersecurity+Circular+-+04092025.pdf"
+        },
+        {
+          "id": "ifsca-cyber-certification-2026",
+          "shortName": "IFSCA Cyber Security Certification Circular, 2026",
+          "name": "Certification on Cyber Security and Cyber Resilience for Designated Officers and other specified employees of Regulated Entities in the IFSCs",
+          "ref": "IFSCA-CSD/MSC/4/2026-DCS",
+          "issued": "2026-10-27",
+          "url": "https://ifsca.gov.in/CommonDirect/ViewFile?id=850da50e42b9c192894a42a7d2a1cd1d&fileName=Circular_DCS_Mandating_IFSCA_NISM_Cyber_Security_Certification_F_20261027_0536.pdf"
+        }
+      ],
+      "removed": [],
+      "changed": []
+    },
+    {
       "date": "2026-10-12",
       "added": [],
       "removed": [],

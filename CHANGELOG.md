@@ -1,5 +1,21 @@
 # Changelog
 
+2026-11-03
+==========
+
+NEW  PFRDA Cyber Security Guidelines, 2024 — Information and Cyber Security Policy Guidelines – 2024 for Intermediaries/Regulated Entities
+     PFRDA/2024/14/ICS/01 · issued 2024-08-01 · in-force
+     https://www.pfrda.org.in/documents/33652/198544/18+PFRDA202414ICS01.pdf
+
+NEW  PFRDA Incident Classification Guidelines, 2025 — Guidelines on Classification of Cybersecurity Incidents
+     PFRDA/2025/05/ICS/01 · issued 2025-09-04 · in-force
+     https://www.pfrda.org.in/documents/33652/311487/Cybersecurity+Circular+-+04092025.pdf
+
+NEW  IFSCA Cyber Security Certification Circular, 2026 — Certification on Cyber Security and Cyber Resilience for Designated Officers and other specified employees of Regulated Entities in the IFSCs
+     IFSCA-CSD/MSC/4/2026-DCS · issued 2026-10-27 · in-force
+     Dates: 2027-05-18 (compliance) Basic certification (NISM-IFSCA-02A) for those in post: six months from the examination going live on 18 November 2026. · 2027-06-30 (compliance) Advanced certification (NISM-IFSCA-02B) for the Designated Officer or MII CISO in post: six months from the examination going live on 30 December 2026.
+     https://ifsca.gov.in/CommonDirect/ViewFile?id=850da50e42b9c192894a42a7d2a1cd1d&fileName=Circular_DCS_Mandating_IFSCA_NISM_Cyber_Security_Certification_F_20261027_0536.pdf
+
 2026-10-12
 ==========
 

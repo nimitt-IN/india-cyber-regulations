@@ -6,7 +6,7 @@
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "BitScore Cybertech LLP — bitscore.in",
   "verifiedFrom": "2026-08-18",
-  "count": 32,
+  "count": 35,
   "instruments": [
     {
       "id": "rbi-cyber-2026-commercial",
@@ -485,6 +485,32 @@
       "verifiedOn": "2026-08-18"
     },
     {
+      "id": "pfrda-cyber-2024",
+      "name": "Information and Cyber Security Policy Guidelines – 2024 for Intermediaries/Regulated Entities",
+      "shortName": "PFRDA Cyber Security Guidelines, 2024",
+      "issuer": "PFRDA",
+      "instrumentType": "Guidelines",
+      "ref": "PFRDA/2024/14/ICS/01",
+      "issued": "2024-08-01",
+      "status": "in-force",
+      "binds": "Every intermediary and regulated entity under the PFRDA Act, 2013, in two categories. Category I — CRAs and pension funds — takes the whole instrument. Category II — Points of Presence including APY service providers, the trustee bank, custodians and non-individual retirement advisers — may rely on its principal regulator’s equivalent, but still reports incidents to CERT-In and PFRDA within six hours.",
+      "url": "https://www.pfrda.org.in/documents/33652/198544/18+PFRDA202414ICS01.pdf",
+      "verifiedOn": "2026-11-03"
+    },
+    {
+      "id": "pfrda-incident-classification-2025",
+      "name": "Guidelines on Classification of Cybersecurity Incidents",
+      "shortName": "PFRDA Incident Classification Guidelines, 2025",
+      "issuer": "PFRDA",
+      "instrumentType": "Circular",
+      "ref": "PFRDA/2025/05/ICS/01",
+      "issued": "2025-09-04",
+      "status": "in-force",
+      "binds": "All PFRDA intermediaries and regulated entities, alongside the 2024 Guidelines. Four categories — Critical, High, Medium and Low — and one firm rule: an incident that disrupts normal operations or service delivery must be classified High or Critical.",
+      "url": "https://www.pfrda.org.in/documents/33652/311487/Cybersecurity+Circular+-+04092025.pdf",
+      "verifiedOn": "2026-11-03"
+    },
+    {
       "id": "ifsca-cyber-2025",
       "name": "Guidelines on Cyber Security and Cyber Resilience for Regulated Entities in IFSCs",
       "shortName": "IFSCA Cyber Security Guidelines, 2025",
@@ -573,6 +599,31 @@
       ],
       "url": "https://ifsca.gov.in/CommonDirect/GetFileView?id=91427247c5628a865846d173bc9cc2f5&fileName=Advisory_on_Heightened_Cyber_Security_Risks_arising_from_Frontier_Artificial_Intelligence_Models_20260604_0359.pdf&TitleName=Legal",
       "verifiedOn": "2026-10-11"
+    },
+    {
+      "id": "ifsca-cyber-certification-2026",
+      "name": "Certification on Cyber Security and Cyber Resilience for Designated Officers and other specified employees of Regulated Entities in the IFSCs",
+      "shortName": "IFSCA Cyber Security Certification Circular, 2026",
+      "issuer": "IFSCA",
+      "instrumentType": "Circular",
+      "ref": "IFSCA-CSD/MSC/4/2026-DCS",
+      "issued": "2026-10-27",
+      "status": "in-force",
+      "binds": "All regulated entities in the IFSCs, with no exemption carved out, through named roles. The Designated Officer — at an MII, the CISO — must hold both the Basic and the Advanced NISM-IFSCA cyber security certifications; the Compliance Officer and staff running IT operations or information security, or holding privileged access to critical systems, must hold the Basic. Six months from the examination going live or from appointment, whichever is later.",
+      "deadlines": [
+        {
+          "label": "Basic certification (NISM-IFSCA-02A) for those in post: six months from the examination going live on 18 November 2026.",
+          "date": "2027-05-18",
+          "kind": "compliance"
+        },
+        {
+          "label": "Advanced certification (NISM-IFSCA-02B) for the Designated Officer or MII CISO in post: six months from the examination going live on 30 December 2026.",
+          "date": "2027-06-30",
+          "kind": "compliance"
+        }
+      ],
+      "url": "https://ifsca.gov.in/CommonDirect/ViewFile?id=850da50e42b9c192894a42a7d2a1cd1d&fileName=Circular_DCS_Mandating_IFSCA_NISM_Cyber_Security_Certification_F_20261027_0536.pdf",
+      "verifiedOn": "2026-11-03"
     },
     {
       "id": "cert-in-2022",
