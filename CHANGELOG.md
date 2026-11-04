@@ -1,5 +1,14 @@
 # Changelog
 
+2026-11-04
+==========
+
+editorial  PFRDA Cyber Security Guidelines, 2024
+     (also verifiedOn — not notified)
+
+editorial  PFRDA Incident Classification Guidelines, 2025
+     (also verifiedOn — not notified)
+
 2026-11-03
 ==========
 
