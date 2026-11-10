@@ -1,0 +1,13 @@
+{
+  "title": "Indian Cyber Regulation Register",
+  "upload_type": "dataset",
+  "description": "<p>Every cybersecurity and data-protection instrument binding Indian regulated entities, with its reference number, issue date, status and the dates it sets. Covers the RBI, SEBI, IRDAI, PFRDA, IFSCA, CERT-In and MeitY. Every entry is read from the issuing regulator's own notification, and each record carries the date that source was last re-read.</p><p>This is a dated snapshot. The live version is at <a href=\"https://www.bitscore.in/resources/india-cyber-regulation-register\">bitscore.in/resources/india-cyber-regulation-register</a>, with the files at <a href=\"https://www.bitscore.in/data\">bitscore.in/data</a>. Indicative reference data, not legal advice.</p>",
+  "creators": [{ "name": "BitScore Cybertech LLP" }],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": ["cybersecurity", "regulation", "compliance", "India", "RBI", "SEBI", "IRDAI", "PFRDA", "IFSCA", "CERT-In", "DPDP", "open data"],
+  "related_identifiers": [
+    { "identifier": "https://www.bitscore.in/resources/india-cyber-regulation-register", "relation": "isDocumentedBy", "scheme": "url" }
+  ]
+}
