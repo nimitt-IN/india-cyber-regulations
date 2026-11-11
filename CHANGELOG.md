@@ -1,5 +1,13 @@
 # Changelog
 
+2026-11-11
+==========
+
+NEW  RBI non-bank PSO cyber Master Directions, 2026 — Reserve Bank of India (Cyber Resilience and Digital Payment Security Controls for non-bank PSOs) Master Directions, 2026
+     RBI/DPSS/2026-27/475 · issued 2026-11-05 · in-force
+     Dates: 2028-04-01 (in-force) In force for small non-bank PSOs: small PPI issuers and Instant Money Transfer Operators.
+     https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13751
+
 2026-11-04
 ==========
 

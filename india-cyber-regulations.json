@@ -6,7 +6,7 @@
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "BitScore Cybertech LLP — bitscore.in",
   "verifiedFrom": "2026-08-18",
-  "count": 35,
+  "count": 36,
   "instruments": [
     {
       "id": "rbi-cyber-2026-commercial",
@@ -292,6 +292,26 @@
       ],
       "url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12925",
       "verifiedOn": "2026-09-23"
+    },
+    {
+      "id": "rbi-pso-cyber-2026",
+      "name": "Reserve Bank of India (Cyber Resilience and Digital Payment Security Controls for non-bank PSOs) Master Directions, 2026",
+      "shortName": "RBI non-bank PSO cyber Master Directions, 2026",
+      "issuer": "RBI",
+      "instrumentType": "Directions",
+      "ref": "RBI/DPSS/2026-27/475",
+      "issued": "2026-11-05",
+      "status": "in-force",
+      "binds": "Every authorised non-bank payment system operator. Large PSOs — CCIL, NPCI, NPCI Bharat BillPay, card networks, non-bank ATM networks, White Label ATM Operators, large PPI issuers, TReDS operators, Bharat Bill Payment Operating Units and payment aggregators — and medium PSOs — inbound cross-border Money Transfer Service Scheme operators and medium PPI issuers — from the day of issue. Small PPI issuers and Instant Money Transfer Operators from 1 April 2028.",
+      "deadlines": [
+        {
+          "label": "In force for small non-bank PSOs: small PPI issuers and Instant Money Transfer Operators.",
+          "date": "2028-04-01",
+          "kind": "in-force"
+        }
+      ],
+      "url": "https://rbi.org.in/scripts/NotificationUser.aspx?Mode=0&Id=13751",
+      "verifiedOn": "2026-11-11"
     },
     {
       "id": "sebi-cscrf",
