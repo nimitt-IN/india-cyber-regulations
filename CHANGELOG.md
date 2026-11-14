@@ -1,5 +1,13 @@
 # Changelog
 
+2026-11-14
+==========
+
+NEW  DPDP Removal of Difficulties Order, 2026 — Digital Personal Data Protection (Removal of Difficulties) Order, 2026
+     S.O. 5458(E) · issued 2026-10-05 · in-force
+     Dates: 2026-10-06 (in-force) In force, on publication in the Official Gazette.
+     https://egazette.gov.in/WriteReadData/2026/276885.pdf
+
 2026-11-11
 ==========
 

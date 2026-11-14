@@ -6,7 +6,7 @@
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "BitScore Cybertech LLP — bitscore.in",
   "verifiedFrom": "2026-08-18",
-  "count": 36,
+  "count": 37,
   "instruments": [
     {
       "id": "rbi-cyber-2026-commercial",
@@ -684,6 +684,26 @@
       ],
       "url": "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf",
       "verifiedOn": "2026-10-11"
+    },
+    {
+      "id": "dpdp-removal-of-difficulties-order-2026",
+      "name": "Digital Personal Data Protection (Removal of Difficulties) Order, 2026",
+      "shortName": "DPDP Removal of Difficulties Order, 2026",
+      "issuer": "MeitY",
+      "instrumentType": "Order",
+      "ref": "S.O. 5458(E)",
+      "issued": "2026-10-05",
+      "status": "in-force",
+      "binds": "Amends the Digital Personal Data Protection Act, 2023 itself, in two places: section 9(1), on verifiable consent for a child or a person with disability, and section 10(2)(c)(ii), on the periodic audit of a Significant Data Fiduciary, which becomes a data audit. Textual corrections only. No commencement date moves and the DPDP Rules, 2025 are untouched.",
+      "deadlines": [
+        {
+          "label": "In force, on publication in the Official Gazette.",
+          "date": "2026-10-06",
+          "kind": "in-force"
+        }
+      ],
+      "url": "https://egazette.gov.in/WriteReadData/2026/276885.pdf",
+      "verifiedOn": "2026-11-13"
     }
   ]
 }
