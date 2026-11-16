@@ -7,6 +7,25 @@
   "attribution": "BitScore Cybertech LLP — bitscore.in",
   "entries": [
     {
+      "date": "2026-11-16",
+      "added": [],
+      "removed": [],
+      "changed": [
+        {
+          "id": "sebi-lodr-2015",
+          "shortName": "SEBI LODR",
+          "fields": [
+            {
+              "field": "url",
+              "label": "Source link",
+              "from": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1784630770711.pdf",
+              "to": "https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792664915776.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-13",
       "added": [
         {

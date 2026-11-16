@@ -4,7 +4,7 @@ Every cybersecurity and data-protection instrument binding Indian regulated enti
 its reference number, issue date, status and the dates it sets.
 
 **37 instruments** across the RBI, SEBI, IRDAI, PFRDA, IFSCA, CERT-In and MeitY.
-Oldest verification in the current set: **2026-08-18**.
+Oldest verification in the current set: **2026-11-16**.
 
 ## Files
 

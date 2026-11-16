@@ -1,5 +1,122 @@
 # Changelog
 
+2026-11-16
+==========
+
+editorial  Commercial Banks
+     (also verifiedOn — not notified)
+
+editorial  Small Finance Banks
+     (also verifiedOn — not notified)
+
+editorial  Payments Banks
+     (also verifiedOn — not notified)
+
+editorial  Urban Co-operative Banks
+     (also verifiedOn — not notified)
+
+editorial  All India Financial Institutions
+     (also verifiedOn — not notified)
+
+editorial  Non-Banking Financial Companies
+     (also verifiedOn — not notified)
+
+editorial  Credit Information Companies
+     (also verifiedOn — not notified)
+
+editorial  RBI outsourcing Directions, 2025
+     (also verifiedOn — not notified)
+
+editorial  RBI NBFC outsourcing Directions, 2025
+     (also verifiedOn — not notified)
+
+editorial  RBI SFB outsourcing Directions, 2025
+     (also verifiedOn — not notified)
+
+editorial  RBI Payments Bank outsourcing Directions, 2025
+     (also verifiedOn — not notified)
+
+editorial  RBI LAB outsourcing Directions, 2025
+     (also verifiedOn — not notified)
+
+editorial  RBI UCB outsourcing Directions, 2025
+     (also verifiedOn — not notified)
+
+editorial  RBI RCB outsourcing Directions, 2025
+     (also verifiedOn — not notified)
+
+editorial  RBI AIFI outsourcing Directions, 2025
+     (also verifiedOn — not notified)
+
+editorial  RBI Credit Information Company outsourcing Directions, 2025
+     (also verifiedOn — not notified)
+
+editorial  RBI non-bank PSO cyber Master Directions, 2026
+     (also verifiedOn — not notified)
+
+editorial  SEBI CSCRF
+     (also verifiedOn — not notified)
+
+editorial  CSCRF clarifications, December 2024
+     (also verifiedOn — not notified)
+
+editorial  First extension, March 2025
+     (also verifiedOn — not notified)
+
+editorial  CSCRF clarifications, April 2025
+     (also verifiedOn — not notified)
+
+editorial  Second extension, June 2025
+     (also verifiedOn — not notified)
+
+editorial  Technical clarifications, August 2025
+     (also verifiedOn — not notified)
+
+editorial  SEBI incident portal — FIRE format
+     (also verifiedOn — not notified)
+
+editorial  SEBI IT Resilience Index
+     (also verifiedOn — not notified)
+
+CHANGED  SEBI LODR
+     Source link
+       was: https://www.sebi.gov.in/sebi_data/attachdocs/jul-2026/1784630770711.pdf
+       now: https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792664915776.pdf
+     (also verifiedOn — not notified)
+
+editorial  IRDAI Guidelines, 2026
+     (also verifiedOn — not notified)
+
+editorial  PFRDA Cyber Security Guidelines, 2024
+     (also verifiedOn — not notified)
+
+editorial  PFRDA Incident Classification Guidelines, 2025
+     (also verifiedOn — not notified)
+
+editorial  IFSCA Cyber Security Guidelines, 2025
+     (also verifiedOn — not notified)
+
+editorial  IFSCA Cyber Security Guidelines Amendment, 2026
+     (also verifiedOn — not notified)
+
+editorial  IFSCA MII Cyber Security Guidelines, 2026
+     (also verifiedOn — not notified)
+
+editorial  IFSCA Frontier AI Cyber Advisory, 2026
+     (also verifiedOn — not notified)
+
+editorial  IFSCA Cyber Security Certification Circular, 2026
+     (also verifiedOn — not notified)
+
+editorial  CERT-In Directions, 2022
+     (also verifiedOn — not notified)
+
+editorial  DPDP Rules, 2025
+     (also verifiedOn — not notified)
+
+editorial  DPDP Removal of Difficulties Order, 2026
+     (also verifiedOn — not notified)
+
 2026-11-14
 ==========
 
